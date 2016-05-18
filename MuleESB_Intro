@@ -1,0 +1,20 @@
+Mule, the runtime engine of Anypoint Platform, is a lightweight Java-based enterprise service bus (ESB) and integration platform
+The ESB can be deployed anywhere, can integrate and orchestrate events in real time or in batch, and has universal connectivity.
+Mule has powerful capabilities that include:
+
+    Service creation and hosting — expose and host reusable services, using the ESB as a lightweight service container
+    Service mediation — shield services from message formats and protocols, separate business logic from messaging, and enable 
+                        location-independent service calls Message routing — route, filter, aggregate, and re-sequence messages
+                        based on content and rules
+    Data transformation — exchange data across varying formats and transport protocols
+
+Messages can be in any format from SOAP to binary image files. Mule does not force any design constraints on the architect, 
+such as XML messaging or WSDL service contracts.
+
+You can deploy Mule in a variety of topologies, not just ESB. Because it is lightweight and embeddable, 
+Mule can dramatically decrease time to market and increases productivity for projects to provide secure, 
+scalable applications that are adaptive to change and can scale up or down as needed.
+
+Mule's stage event-driven architecture (SEDA) makes it highly scalable. 
+A major airline processes over 10,000 business transactions per second with Mule while H&R Block 
+uses 13,000 Mule servers to support their highly distributed environment.
