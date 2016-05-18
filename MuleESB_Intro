@@ -18,3 +18,25 @@ scalable applications that are adaptive to change and can scale up or down as ne
 Mule's stage event-driven architecture (SEDA) makes it highly scalable. 
 A major airline processes over 10,000 business transactions per second with Mule while H&R Block 
 uses 13,000 Mule servers to support their highly distributed environment.
+
+Getting the Most out of Mule:
+
+    Deploy or integrate applications or systems on premises or in the cloud
+
+    Employ out-of-the-box connectors to create SaaS integration applications
+
+    Build and expose APIs
+
+    Consume APIs
+
+    Create Web services which orchestrate calls to other services
+
+    Create interfaces to expose applications for mobile consumption
+
+    Integrate B2B with solutions that are secure, efficient, and quick to build and deploy
+
+    Shift applications onto the cloud
+
+    Connect B2B e-commerce activities
+
+- See more at: https://www.mulesoft.com/resources/esb/what-mule-esb#sthash.Gs2K0xUx.dpuf
